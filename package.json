@@ -1,0 +1,16 @@
+{
+  "name": "04-proyecto",
+  "version": "1.0.0",
+  "description": "proyecto node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Aguilar",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "yargs": "^17.5.1"
+  }
+}
